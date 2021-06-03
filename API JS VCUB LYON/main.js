@@ -57,6 +57,7 @@ function callback(response) {
         '<li>velos dispo : ' + info.available_bikes + '</li>' +
         '<li>Statut: ' + info.status + '</li>' +
       '</ul>' + 
+      '<button type="button" class="btn btn-primary">Réserver</button>'
       '</div>'
   
   
